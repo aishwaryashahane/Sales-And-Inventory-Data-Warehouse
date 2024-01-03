@@ -1,2 +1,2 @@
 # Sales-And-Inventory-Data-Warehouse
-Sales Dashboards Project - Analyze sales data to improve customer experience and sales
+Sales & Inventory Data Warehouse - The aim of this project enables seamless data migration, transformation, and insightful reporting via Azure tools & Power BI with robust governance using Azure AD & Key Vault.
